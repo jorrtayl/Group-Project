@@ -1,3 +1,6 @@
+<<<<<<< Updated upstream
 Input: User controls such as mouse, keyboard, and joystick.
 NavMesh: Provides an object the ability to go from point A to point B.
 Area Mask for navigating and cost.
+=======
+>>>>>>> Stashed changes
