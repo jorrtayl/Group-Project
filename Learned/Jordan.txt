@@ -1,7 +1,0 @@
-<<<<<<< Updated upstream
-Input: User controls such as mouse, keyboard, and joystick.
-NavMesh: Provides an object the ability to go from point A to point B.
-Area Mask for navigating and cost.
-=======
-Input: Involves keyboard, mouse, and controller capability. Also alters what a button press does, affecting many factors such as speed or gravity.
->>>>>>> Stashed changes
