@@ -13,4 +13,10 @@ public class MoveTo : MonoBehaviour
         agent.speed = 5;
         agent.destination = goal.position;
     }
+
+    // Make "Players" follow each other in a line in Update
+    void Update()
+    {
+        
+    }
 }
