@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class Spawn : MonoBehaviour
 {
-    [SerializeField] private GameObject Zombie;
-    [SerializeField] private GameObject Spawner;
+    //[SerializeField] private GameObject Zombie;
+    //[SerializeField] private GameObject Spawner;
 
     // Start is called before the first frame update
     void Start()
@@ -16,6 +16,6 @@ public class Spawn : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        GameObject _Zombie = Instantiate(Zombie, Spawner.transform(), Quaternion.identity);
+        // GameObject _Zombie = Instantiate(Zombie, Spawner.transform(), Quaternion.identity);
     }
 }
