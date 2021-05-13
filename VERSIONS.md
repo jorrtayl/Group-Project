@@ -8,7 +8,7 @@ All versions of the Group-Project will be documented here, along with changes an
 - Created a small map
 - Created a pseudo-zombie chase game
 
-### Changelog (Updated - 05/12/2021)
+### Change Log (Updated - 05/12/2021)
 - Updated file structure
 - Added 3rd Person camera
 - Updated player controls
