@@ -2,3 +2,4 @@ Cinemark Virtual Camera
 Cinemark Freelook Camera
 Cinemark Input Provider
 Input Actions
+SerializeField
