@@ -1,4 +1,9 @@
-// Movement.cs
+/*
+ * Author: Jordan Taylor
+ * Date: 05 / 13 / 2021
+ * Description: Allows the player to move.
+ */
+
 using UnityEngine;
 using UnityEngine.AI;
 
@@ -9,7 +14,7 @@ public class Movement : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        speed = .01f; // FIXME - Why is it so fast for me at .03? - Hunter
+        speed = .03f; // FIXME - Why is it so fast for me at .03? - Hunter
     }
 
     // Update is called once per frame
