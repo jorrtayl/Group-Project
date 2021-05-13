@@ -1,6 +1,6 @@
 1. Low Health, High Damage
 2. High Damage, Low Speed
-3. Low Health, Medium Damage Unless Behind, Then More, Low Detection Rate
+3. Low Health, More Damage from Behind, Low Detection Rate
 4. High Health, Slow Speed, High Damage
 1. Ranged
 2. Heavy Two-Handed
