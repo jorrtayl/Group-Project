@@ -1,0 +1,11 @@
+1. Player Health / Zombie Health
+2. Improved Pathfinding
+3. Guns
+4. Shop / Chellenge Reward System
+5. Different Time Period Modes (weapons and armors need to be relevant, we will start it in Medieval period)
+6. Different Zombies (number and type range on level of difficulty)
+7. Player Classes
+8. Player Stats Include: (Health, Damage, Speed at the very least)
+9. 3rd Person
+10. WASD movement, mouse rotating
+11. Left click shoot, right click shield
