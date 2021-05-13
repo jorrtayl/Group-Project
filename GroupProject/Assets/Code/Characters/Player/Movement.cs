@@ -1,3 +1,4 @@
+// Movement.cs
 using UnityEngine;
 using UnityEngine.AI;
 
@@ -8,8 +9,7 @@ public class Movement : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        speed = .03f;
-
+        speed = .01f; // FIXME - Why is it so fast for me at .03? - Hunter
     }
 
     // Update is called once per frame
